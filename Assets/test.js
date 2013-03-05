@@ -4,6 +4,7 @@ function Start () {
 
 }
 
-function Update () {
+function Update () 
+{
          var x = 2;
 }
